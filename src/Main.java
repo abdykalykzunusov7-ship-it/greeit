@@ -7,6 +7,11 @@ public class Main {
          names = new String[]{"ivan","bain","evgen","adik"};
      //   System.out.println(names[3]);
        //     int ff = names.length;
+
+
+
+
+
         //System.out.println(ff);
         for (int i = 0; i < names.length; i ++){
             System.out.println(names[i]);
@@ -17,6 +22,9 @@ public class Main {
             System.out.println(n);
         }
       }
+
+
+
 
     }
 
